@@ -1,4 +1,4 @@
-Feature: Hover
+Feature: Hover test
 
   Background:
     When user click the Widgets module

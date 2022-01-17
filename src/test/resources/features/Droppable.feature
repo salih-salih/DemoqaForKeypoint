@@ -1,4 +1,4 @@
-Feature: Droppable
+Feature: Droppable test
 
   Scenario: Simple tab drag-drop cation
     When user click the interaction module
